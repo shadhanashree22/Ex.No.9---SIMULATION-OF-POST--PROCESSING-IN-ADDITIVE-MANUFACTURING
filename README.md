@@ -58,8 +58,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: S V SHADHANASHREE
+### Register Number: 212223230202
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
