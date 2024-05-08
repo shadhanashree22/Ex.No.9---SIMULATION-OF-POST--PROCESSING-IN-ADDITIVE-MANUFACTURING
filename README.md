@@ -58,6 +58,11 @@
 
 ## Output:
 
+![image](https://github.com/shadhanashree22/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231910/2dd48a8b-be72-47bb-b7d2-6899e8d6596b)
+![image](https://github.com/shadhanashree22/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231910/8bc37871-e318-4df8-953f-15bcad37aa05)
+![image](https://github.com/shadhanashree22/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231910/c8a9ab1a-158b-46ad-b93e-da2218fc8373)
+
+
 ### Name: S V SHADHANASHREE
 ### Register Number: 212223230202
 
